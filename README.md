@@ -76,6 +76,8 @@ A curated list of **awesome tools, libraries, and resources** related to program
 |----------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | ![Web](https://img.shields.io/badge/-Web-lightgrey?logo=html5&logoColor=white)        | [EC3 Embodied Carbon in Construction Calculator](https://www.buildingtransparency.org/en/) | Free tool to evaluate and reduce the embodied carbon in construction materials. |
 
+---
+
 ## 🔗 Interoperability  
 🔄 Bridges between CAD, BIM, and other structural tools.  
 
